@@ -7,4 +7,6 @@ some text.
 #Modify the modify branch1#Modify the modify branch
 
 
-# Test Branch 2
+## Test Branch 2
+s
+## A new branch for merge
